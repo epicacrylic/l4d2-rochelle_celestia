@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "ponies\celestia\Celestia_crown"
+	"$bumpmap" "ponies\celestia\Celestia_crown_normals"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+	"$surfaceprop" "metal"
+}
